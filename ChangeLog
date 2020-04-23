@@ -1,3 +1,4 @@
+	* increase default tracker timeout
 	* allow UPnP lease duration to be changed after device discovery
 	* fix IPv6 address change detection on Windows
 
